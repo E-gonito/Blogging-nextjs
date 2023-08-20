@@ -1,0 +1,1 @@
+Blogging website build in NextJS following the tasks here: https://gist.github.com/IsmailM/5ce860659f25bee960a97aaeaa97edfe
